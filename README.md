@@ -8,3 +8,7 @@ Basically I just clone the repo and then move the files:
 ```bash
 mv bash_aliases ~/.bash_aliases
 ```
+
+```bash
+mv vimrc ~/.vimrc
+```
